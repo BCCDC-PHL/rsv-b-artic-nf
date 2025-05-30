@@ -1,3 +1,4 @@
+name: artic-rsvb-extras
 channels:
   - conda-forge
   - bioconda

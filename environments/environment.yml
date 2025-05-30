@@ -1,4 +1,4 @@
-name: artic-rsv-b-illumina
+name: artic-rsvb-illumina
 channels:
   - conda-forge
   - bioconda
